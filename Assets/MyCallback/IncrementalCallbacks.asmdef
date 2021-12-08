@@ -1,0 +1,18 @@
+{
+    "name": "IncrementalCallbacks",
+    "rootNamespace": "",
+    "references": [
+        "GUID:124f18802ed6f8f4186b6b4c7c1b5048"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": true
+}
