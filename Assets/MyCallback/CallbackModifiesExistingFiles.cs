@@ -10,6 +10,6 @@ public class CallbackModifiesExistingFiles : AndroidProjectCallbacks
 {
     public override void Run()
     {
-        LibraryManifest.AddApplicationMetaDataAttribute("CalledWhenAssemblyIsRecompiled", "Test");
+        LibraryManifest.AddApplicationMetaDataAttribute("CalledWhenAssemblyIsRecompiled", "sdsd");
     }
 }
