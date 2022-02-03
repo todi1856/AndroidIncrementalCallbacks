@@ -1,10 +1,7 @@
 {
-    "name": "BurstAndroidEditor",
+    "name": "BurstIncrementalCallback",
     "rootNamespace": "",
-    "references": [
-        "GUID:99d55ade15aefb542bacde1a72c9f9ec",
-        "GUID:b75d3cd3037d383a8d1e2f9a26d73d8a"
-    ],
+    "references": [],
     "includePlatforms": [
         "Editor"
     ],
@@ -15,5 +12,5 @@
     "autoReferenced": true,
     "defineConstraints": [],
     "versionDefines": [],
-    "noEngineReferences": false
+    "noEngineReferences": true
 }
