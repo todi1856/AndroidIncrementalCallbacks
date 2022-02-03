@@ -1,0 +1,19 @@
+{
+    "name": "BurstAndroidEditor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:7b5de82e72e56a14f8e83487364a7fea",
+        "GUID:b75d3cd3037d383a8d1e2f9a26d73d8a"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
